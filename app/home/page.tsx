@@ -23,7 +23,7 @@ export default function HomePage() {
         <li>✔️ Fun and interactive learning games</li>
       </ul>
       <p className="text-lg text-gray-700">
-        Let's make learning exciting and accessible for every child!
+        {`Let's make learning exciting and accessible for every child!`}
       </p>
       <div className="mt-4">
         <Link 
