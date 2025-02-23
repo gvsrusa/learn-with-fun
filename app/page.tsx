@@ -8,7 +8,7 @@ export default function LandingPage() {
           THE LEARNING LINK
         </h1>
         <p className="text-lg text-gray-700 mb-8">
-          Empowering Educators, Parents &amp; Kids with Smart Resources!
+        <strong><em>"Versatile. Interactive. Academic!"</em></strong>,
         </p>
         <div className="space-y-4">
           <Link

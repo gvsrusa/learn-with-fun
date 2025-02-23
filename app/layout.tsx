@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "The Learning Link",
-  description: "Empowering Educators, Parents & Kids with Smart Resources!",
+  description: `"Versatile. Interactive. Academic!"`,
   viewport: "width=device-width, initial-scale=1",
 };
 
